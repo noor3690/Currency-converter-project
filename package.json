@@ -1,9 +1,12 @@
 {
-  "name": "currency-converter-project",
-  "version": "1.0.0",
+  "name": "noor3s21-currency-converter-project",
+  "version": "2.0.0",
   "description": "This is Currency-converter project",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "noor3s21-currency-converter-project": "conv.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
